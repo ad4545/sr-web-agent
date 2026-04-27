@@ -1,0 +1,8 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "amr_navigator": "./agent.py:graph"
+  },
+  "env": ".env",
+  "python_version": "3.14"
+}
